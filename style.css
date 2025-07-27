@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    border: #0000CD solid 5px;
+    border-radius: 20px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+header a {
+    background-color: navy;    
+    color: white;
+    padding: 7px;
+    border-radius: 9px;
+    text-decoration: none;
+}
+h1 {
+    color: navy;
+    text-align: center;
+}
+footer p{
+    border: solid gray 2px;
+    padding: 5px;
+
+}
+nav a{
+    background-color: navy; 
+    color: white;
+    padding: 7px;
+    border-radius: 9px;
+    text-decoration: none;  
+    margin: 20px;
+}
+.one{
+    border: 2px navy solid;
+    color: blue;
+    background-color: white;
+}
